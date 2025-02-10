@@ -1,5 +1,5 @@
  Controle de Servo e LED RGB com Raspberry Pi Pico 🎮
-Este projeto demonstra o controle de um servo motor e um LED RGB usando a Raspberry Pi Pico com PWM (Pulse Width Modulation). O código foi escrito em C e utiliza as bibliotecas pico/stdlib.h e hardware/pwm.h para controlar a movimentação do servo e a intensidade das cores do LED RGB. 😎
+Este projeto demonstra o controle de um servo motor e um LED RGB usando a Raspberry Pi Pico com PWM (Pulse Width Modulation). O código foi escrito em C e utiliza as bibliotecas pico/stdlib.h e hardware/pwm.h para controlar a movimentação do servo e a intensidade das cores do LED RGB. 
 
 🛒 Materiais Necessários
 Raspberry Pi Pico 🖥️
